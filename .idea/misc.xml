@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/dev/share-a-meal/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/dev/share-a-meal/app/src/main/res/layout/activity_person_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/dev/share-a-meal/app/src/main/res/layout/add_meal.xml" value="0.36666666666666664" />
         <entry key="..\:/dev/share-a-meal/app/src/main/res/layout/meal_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/dev/share-a-meal/app/src/main/res/layout/meal_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/dev/share-a-meal/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
